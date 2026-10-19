@@ -1,2 +1,16 @@
-# LFS-iso
-en este repositorio subire isos de un linux from scratch ya hecho (tiene escritorio, navegador, etc.). ESTO NO ES UNA DISTRIBUCION NI NADA OFICIAL DEL EQUIPO DE LINUX FROM SCRATCH, SON SOLO ISOS DE MI LFS.
+En LFS-iso encontraras 2 isos preparadas de un LFS (Linux From Scratch) con lo necesario para un sistema operativo basado en linux funcional.
+
+lfscalamares.iso es la iso con todo e instalador
+lfs(sindatos).iso es la iso pero sin instalador
+
+⚠️COSAS A CONSIDERAR⚠️
+
+1. ESTO NO ES OFICIAL DEL EQUIPO DE LINUX FROM SCRATCH.
+2. ESTO NO ES UNA DISTRIBUCION, ASI QUE ES MUY PROBABLE QUE NO HAGA RELEASES NUEVOS Y MAS COSAS QUE SI SE HACEN EN UNA DISTRO.
+3. ASI COMO NO ES OFICIAL DE LFS, NO ES DE CINNAMON, FIREFOX O DE LOS CREADORES DE LAS COSAS QUE ESTAN AHI
+4. ES LFS, ASI QUE NO ESPERE MUCHO
+5. COMO NO ES UNA DISTRO, NO PERSONALICE EL INSTALADOR Y POR ESO DICE "Bienvenido al instalador de Fancy GNU/Linux 2023.3 LTS "Venomous Vole" Y OTRAS COSAS PROPIAS DE UN INSTALADOR SIN PERSONALIZAR COMO "THIS IS A CUSTOMIZABLE QML ELEMENT", O "This is a third Slide element" , ETC.
+6. NO ES UNA ADVERTENCIA, PERO TIENE PACMAN (EL GESTOR DE ARCH LINUX).
+
+gracias por considerar estas cosas, sigueme en yt porque soy pobre por favor: OdpeYT
+gracias por leer esto a la verga.
